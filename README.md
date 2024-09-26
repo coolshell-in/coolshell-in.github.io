@@ -1,2 +1,2 @@
-# coolshell.github.io
+# coolshell-in.github.io
 main site
